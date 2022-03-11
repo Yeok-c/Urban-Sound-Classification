@@ -1,0 +1,8 @@
+git status
+
+# Untracked files:
+UrbanSounds8K
+datasets
+*.wav
+*.tar.gz
+VGG

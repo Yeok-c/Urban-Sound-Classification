@@ -1,0 +1,24 @@
+{
+    "jupyter.kernels.filter": [
+        {
+            "path": "C:\\Python27\\python.exe",
+            "type": "pythonEnvironment"
+        },
+        {
+            "path": "~\\AppData\\Local\\Programs\\Python\\Python36\\envs\\stewart_py\\python.exe",
+            "type": "pythonEnvironment"
+        },
+        {
+            "path": "~\\AppData\\Local\\Programs\\Python\\Python36\\envs\\stewart_py2\\python.exe",
+            "type": "pythonEnvironment"
+        },
+        {
+            "path": "~\\AppData\\Local\\Programs\\Python\\Python36\\envs\\uac\\python.exe",
+            "type": "pythonEnvironment"
+        },
+        {
+            "path": "~\\AppData\\Local\\Programs\\Python\\Python36\\envs\\usc\\python.exe",
+            "type": "pythonEnvironment"
+        }
+    ]
+}
